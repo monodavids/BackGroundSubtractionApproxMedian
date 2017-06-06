@@ -6,3 +6,4 @@ and is for my intern student Mathew Sam to learn approximate median background m
 
 The code includes some elements around blocks for the dot person project
 
+tested and working with processing.org 3.1.1
